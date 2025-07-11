@@ -1,1 +1,1 @@
-https://v0-digital-visiting-card-generator.vercel.app/
+https://digital-card-generator-flax.vercel.app/
